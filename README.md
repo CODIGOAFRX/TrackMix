@@ -1,4 +1,4 @@
-###TrackMix
+# TrackMix
 
 **TrackMix** es una API REST desarrollada con **Java y Spring Boot** que permite registrar escuchas de canciones y generar estadísticas de consumo musical por usuario, similar a un sistema simplificado de analítica musical como Spotify Wrapped.
 
@@ -200,30 +200,3 @@ Pedro Jesús Gómez Pérez
 
 GitHub:
 [https://github.com/CODIGOAFRX](https://github.com/CODIGOAFRX)
-
----
-
-## Cómo subirlo ahora mismo
-
-En la pantalla donde estás:
-
-1️⃣ Pega todo el texto en el README
-2️⃣ Abajo escribe
-
-```
-Initial README for TrackMix project
-```
-
-3️⃣ Pulsa **Commit changes**
-
----
-
-💡 Si quieres, en el siguiente paso puedo ayudarte a hacer **un README mucho más potente para reclutadores**, con:
-
-* badges de tecnologías
-* diagrama del modelo de datos
-* ejemplos de requests
-* capturas de Swagger
-* arquitectura del proyecto
-
-Ese tipo de README **te sube muchísimo el nivel del portfolio**.
