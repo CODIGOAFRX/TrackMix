@@ -1,3 +1,5 @@
+###TrackMix
+
 **TrackMix** es una API REST desarrollada con **Java y Spring Boot** que permite registrar escuchas de canciones y generar estadísticas de consumo musical por usuario, similar a un sistema simplificado de analítica musical como Spotify Wrapped.
 
 El proyecto está diseñado como práctica de backend moderno utilizando **arquitectura por capas, JPA/Hibernate y base de datos relacional**.
